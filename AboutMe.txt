@@ -1,0 +1,10 @@
+Hi I am Khan Mokabbel Hossain.
+I have six years of working experiences as a QA from three different projects. I have started my career as a Quality Assurance in DataHealth Company. 
+In DataHealth company, I wrote test cases in Excel sheet and execute those test cases manually and generate result.
+When I was working in DataHealth Company, I was also learning automation testing by using java programing language and selenium WebDriver API. After working
+around one year in DataHealth, I start working in DataPromotion Company as an Automation Engineer. 
+Then started my new career in GiantTech Insurance company as my current project where I am working with BDD cucumber framework, where we use maven as a project-building tool, and Page Object Model for storing object repository. We also use JUnit as a testing framework and cucumber default report for generating report. In this framework, we also added log4J for generating execution log.
+
+Through out my career, I worked in many different operating systems like Windows, Mac, Unix. Our company’s server is hosted on Unix operating systems; therefore, I have good knowledge in Unix.
+In my current company, we are following agile methodology; every two weeks we have a new sprint. At the beginning of the sprint, we have a sprint-planning meeting; we have standup meeting everyday, at the end of our sprint we have sprint demo meeting, and we also have retrospective meeting.
+Normally, after our sprint-planning meeting, I start selecting the test cases that are good for automation testing. Then daily basis I write automation test code.
