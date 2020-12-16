@@ -1,3 +1,4 @@
+
 Hi I am Khan Mokabbel Hossain.
 I have around eight years of working experiences as a QA in IT industry. I had started my career as a Quality Assurance in all phases of Software Development 
 Life Cycle (SDLC) and Software Testing Life Cycle (STLC). I started my career in manual testing. I had little programming language knowledge when I was doing 
@@ -10,15 +11,23 @@ I did different type of testing like Smoke Testing, Sanity Testing, Regression T
 
 I would like tell describe all projects I did in my career. 
 * About my first project:
-	- My domain name was TD Bank.
-	-   I created test, I created test scenario, during creating test I used Xcel spread sheet, I wrote 
+	- I started my career with financial project and my financia domain name was Well Fargo where I worked as a Quality Assurance. 
+	- I created test, I created test scenario, during creating test I used X-cell spread sheet, I wrote 
 test case based on acceptance criteria. I worked with Agile- here did back log refinement  meeting and during this meeting  many questions were raised, 
 I  talked with product owner, sometimes communicated with product owner regarding these questions  by  mail keeping cc to other members, and accordingly 
 the test cases I write in Xcel spread sheet and also I put test case number as reference.  Based on that Xcel spread sheet  I executed these test manually and 
 generated the report. When I got defect , I took its screen shot and kept in share point, and same time I added the  link of the concern test case. 
 I also talked with developer and used this case number as reference.
+I collaborated closely with other team members and departments.
+I executed all levels of testing (System, Integration, and Regression).
+I applied quality engineering principals throughout the Agile product lifecycle.
+I provided support and documentation.
+I made report bugs and errors to development teams.
+I helped troubleshoot issues.
+
         - I worked here two and three months as a Manual Tester.
 	 
+
 * About my Second project:
 	- I worked here with a E-commerce domain.
 	-I used here Data Driven Framework.    
